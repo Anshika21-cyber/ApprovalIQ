@@ -1,0 +1,6 @@
+{
+  "name": "ApprovalIQ — AICTE Workflow Automation & Compliance",
+  "description": "Integrated institutional approval workflow automation, compliance monitoring, explainable deficiencies, change-aware document review, and alert management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
